@@ -5,6 +5,9 @@
 // Email: 
 // Created Time: Sun 05 Mar 2023 03:31:00 PM CST
 // Revision history:
+// Description:
+//      Detect 0000 or 1111
+//      Link: https://nju-projectn.github.io/dlco-lecture-note/exp/07.html#id2
 //***************************************************************
 
 module seq_detector(
